@@ -1,0 +1,146 @@
+body{
+    background-color: rgb(11, 122, 95);
+    text-align: center;
+    margin: 0%;
+}
+.top-container{
+    background-color:#e4f9f5d2;
+    width: 100%;
+    height: 573px;
+    position: relative;
+    left:20px;
+}
+.sunit{
+
+    margin: 0 auto;
+    bottom:55px;
+    position: relative;
+    left:20px;
+    top:80px;
+
+}
+.para1{
+    color: rgb(11, 122, 95);
+    font-size:large;
+    position:relative;
+    width:30%;
+    top:85px;
+    left: 485px ;
+
+}
+.bottom-cloud{
+    position:relative;
+    bottom:300px;
+    right:100px;
+}
+.top-cloud{
+    position: relative;
+    margin: auto;
+    right: 200px;
+    bottom: 50px;
+}
+.mountain{
+    position:relative;
+    top: 27px;
+    right: 70px;
+}
+.sun{
+    position: relative;
+    left:550px;
+    top:100px;
+
+}
+p{
+    font-size: x-large;
+    font-family: sans-serif;
+    position: relative;
+    left: 20px;
+    color: hsla(160, 52%, 71%, 1);
+}
+.myphoto{
+    position: relative;
+    right:520px;
+}
+.para{
+    color: rgb(0, 0, 0);
+    position: relative;
+    bottom:560px;
+}
+a{
+    color: hsla(160, 52%, 71%, 1);
+}
+.personalinfo{
+    position: relative;
+    bottom: 550px;
+}
+.para2{
+    position: relative;
+    bottom:540px;
+    right:50px;
+}
+.skills{
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    position: relative;
+    bottom: 600px;
+    right: 50px;
+    border: solid;
+    
+}
+div.contain{
+    text-align:center;
+    position: relative;
+    bottom:70px
+}
+ul.list{
+    display:inline-block;
+    text-align:left;
+    position: relative;
+    bottom: 480px;
+}
+.li1{
+    text-align: justify;
+    margin-right:1%;
+}
+.li2{
+    text-align: justify;
+}
+.contain2{
+    position: relative;
+    bottom: 580px;
+    text-align:center;
+    
+}
+ul.list2{
+    display:inline-block;
+    text-align:left;
+    margin-right:3%;
+}
+.li3{
+    text-align: justify;
+    margin-right:1%;
+}
+.li4{
+    text-align: justify;
+    margin-right: 1%;
+}
+.acheivments{
+    position: relative;
+    bottom: 570px;
+    right: 50px;
+}
+.skills2{
+    position: relative;
+    bottom:600px;
+    right:50px;
+}
+h3{
+    position: relative;
+    bottom:600px
+}
+.form{
+    position: relative;
+    bottom:600px;
+
+}
