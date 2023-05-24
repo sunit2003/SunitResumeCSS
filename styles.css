@@ -8,26 +8,31 @@ body{
     width: 100%;
     height: 573px;
     position: relative;
-    left:auto;
+    left:1px;
+   
 }
-.sunit{
+.namehead{
 
     margin: 0 auto;
     bottom:55px;
+    color: rgb(11, 122, 95);
+    font-family: anurati;
     position: relative;
     left:20px;
-    top:80px;
+    top:10px;
+    font-size:50px;
 
 }
-.para1{
+.para1 {
     color: rgb(11, 122, 95);
-    font-size:large;
-    position:relative;
-    width:30%;
-    top:85px;
-    left: 485px ;
-
+    font-size: large;
+    position: relative;
+    width: 30%;
+    bottom: 50px;
+    left: 480px;
 }
+
+
 .bottom-cloud{
     position:relative;
     bottom:300px;
@@ -36,13 +41,12 @@ body{
 .top-cloud{
     position: relative;
     margin: auto;
-    right: 200px;
-    bottom: 50px;
+    bottom: 150px;
 }
 .mountain{
     position:relative;
-    top: 27px;
     right: 70px;
+    bottom: 85px;
 }
 .sun{
     position: relative;
